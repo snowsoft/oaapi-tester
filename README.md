@@ -1,11 +1,4 @@
-API tester for open-admin
-============================
-
-[![StyleCI](https://styleci.io/repos/457879925/shield?branch=main)](https://styleci.io/repos/99563385)
-[![Packagist](https://img.shields.io/github/license/open-admin-org/api-tester.svg?maxAge=2592000&style=flat-square&color=brightgreen)](https://packagist.org/packages/open-admin-ext/api-tester)
-[![Total Downloads](https://img.shields.io/packagist/dt/open-admin-ext/api-tester.svg?style=flat-square&color=brightgreen)](https://packagist.org/packages/open-admin-admin-ext/api-tester)
-[![Pull request welcome](https://img.shields.io/badge/pr-welcome-green.svg?style=flat-square&color=brightgreen)]()
-
+ 
 [Documentation](http://open-admin.org/docs/en/extension-api-tester)
 
 ## Screenshot
@@ -16,7 +9,7 @@ API tester for open-admin
 ## Installation
 
 ```
-$ composer require open-admin-ext/api-tester
+$ composer require snowsoft/oaapi-tester
 
 $ php artisan vendor:publish --tag=api-tester
 
