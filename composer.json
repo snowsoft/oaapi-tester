@@ -1,9 +1,9 @@
 {
-    "name": "open-admin-ext/api-tester",
+    "name": "snowsoft/oaapi-tester",
     "description": "Api tester for open-admin",
     "type": "library",
     "keywords": ["open-admin", "api", "tester"],
-    "homepage": "https://github.com/open-admin-org/api-tester",
+    "homepage": "https://github.com/snowsoft/oaapi-tester",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "open-admin-org/open-admin": "~1.0"
+        "snowsoft/open-admin": "~v0.01"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0",
